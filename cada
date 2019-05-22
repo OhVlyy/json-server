@@ -1,0 +1,10 @@
+
+{
+" posts " : [
+{ " id " : 1 , " titre " : " serveur json " , " auteur " : " typicode " }
+],
+" commentaires " : [
+{ " id " : 1 , " body " : " un commentaire " , " postId " : 1 }
+],
+" profil " : { " nom " : " typicode " }
+}
